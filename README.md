@@ -1,10 +1,3 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap');
-    * {
-        font-family: 'Quicksand', sans-serif;
-    }
-</style>
-
 # QuoicOurs
 
 ![Quoi Cours logo](logo.png)
@@ -12,6 +5,8 @@
 # Résumé: Génie Logiciel
 
 ## Présentation
+
+L'association CultureDiffusion souhaite réaliser une bibliothèque numérique à gestion décentralisée.
 
 Le génie logiciel repose sur l'art de concevoir des logiciels et d'améliorer la façon de les concevoir.
 
@@ -21,7 +16,6 @@ La mauvaise compréhension du besoin est l'une des premières causes d'échec de
 
 ## Projet exemple
 
-L'association CultureDiffusion souhaite réaliser une bibliothèque numérique à gestion décentralisée.
 
 Le principe est de permettre à chaque membre de numériser les œuvres et aux bibliothécaires de les proposer à l'emprunt selon deux modalités:
 
