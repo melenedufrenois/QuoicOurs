@@ -1,14 +1,16 @@
 # QuoicOurs
 
+![Quoi Cours logo](logo.png)
+
 # Résumé: Génie Logiciel
 
 ## Présentation
 
-Le génie logiciel repose sur l'art de concevoir des logiciels et d'améliorer la façon de les concevoir. 
+Le génie logiciel repose sur l'art de concevoir des logiciels et d'améliorer la façon de les concevoir.
 
 L'ingénieur cherche à optimiser ses processus de travail.
 
-La mauvaise compréhension du besoin est l'une des premières causes d'échec des projets informatiques. 
+La mauvaise compréhension du besoin est l'une des premières causes d'échec des projets informatiques.
 
 ## Projet exemple
 
@@ -24,16 +26,16 @@ L'application possède quatre rubriques:
 
 - Fond commun
 - Emprunts
-- Séquestre  
+- Séquestre
 - À modérer
 
-## Repérage des mots clés 
+## Repérage des mots clés
 
 Concepts, noms propres, actions, propriétés
 
 ## Glossaire
 
-Définitions des concepts clés 
+Définitions des concepts clés
 
 ## Scénarios
 
@@ -41,18 +43,18 @@ Description des scénarios principaux:
 
 - Installer l'application
 - Devenir membre
-- Devenir bibliothécaire  
+- Devenir bibliothécaire
 - Déposer une œuvre
 - Modérer une œuvre
 - Etc.
 
-## Diagrammes  
+## Diagrammes
 
 - Cas d'utilisation
 - Séquences
 - Classes
 - Etc.
 
-## Architecture  
+## Architecture
 
 Choix d'architecture et patterns de conception.
