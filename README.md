@@ -6,6 +6,8 @@
 
 ## Présentation
 
+L'association CultureDiffusion souhaite réaliser une bibliothèque numérique à gestion décentralisée.
+
 Le génie logiciel repose sur l'art de concevoir des logiciels et d'améliorer la façon de les concevoir.
 
 L'ingénieur cherche à optimiser ses processus de travail.
@@ -14,7 +16,6 @@ La mauvaise compréhension du besoin est l'une des premières causes d'échec de
 
 ## Projet exemple
 
-L'association CultureDiffusion souhaite réaliser une bibliothèque numérique à gestion décentralisée.
 
 Le principe est de permettre à chaque membre de numériser les œuvres et aux bibliothécaires de les proposer à l'emprunt selon deux modalités:
 
