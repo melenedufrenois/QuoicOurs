@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant U as Utilisateur
     participant S as Site Web

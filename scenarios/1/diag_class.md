@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class Utilisateur {
       +String nom: "Jean"
@@ -14,3 +15,4 @@ classDiagram
 
     Utilisateur --> SiteWeb : utilise
     SiteWeb --> Oeuvre : affiche
+```

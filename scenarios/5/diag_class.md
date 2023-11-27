@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class Administrateur {
       +String nom: "Admin"
