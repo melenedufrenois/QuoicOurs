@@ -14,3 +14,5 @@ classDiagram
 
     Utilisateur --> SiteWeb : propose
     SiteWeb --> Oeuvre : enregistre
+
+```

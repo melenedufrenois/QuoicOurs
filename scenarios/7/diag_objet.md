@@ -24,3 +24,5 @@ classDiagram
     ServeurWeb --> BaseDeDonnees : enregistre location
     BaseDeDonnees --> Oeuvre : renvoie informations
     BaseDeDonnees --> Location : crée enregistrement de location
+
+```

@@ -18,3 +18,5 @@ classDiagram
     InterfaceUtilisateur --> ServeurWeb : envoie identifiants
     ServeurWeb --> BaseDeDonnees : vérifie identifiants
     BaseDeDonnees --> Utilisateur : valide connexion
+
+```

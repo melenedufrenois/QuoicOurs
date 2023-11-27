@@ -16,3 +16,5 @@ classDiagram
     InterfaceUtilisateur --> ServeurWeb : demande historique lecture
     ServeurWeb --> BaseDeDonnees : récupère historique
     BaseDeDonnees --> HistoriqueLecture : renvoie historique
+
+```

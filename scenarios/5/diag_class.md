@@ -12,3 +12,5 @@ classDiagram
 
     Administrateur --> SiteWeb : consulte
     SiteWeb --> Oeuvre : montre
+
+```

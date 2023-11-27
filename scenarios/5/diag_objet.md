@@ -18,3 +18,5 @@ classDiagram
     InterfaceAdministrateur --> ServeurWeb : demande propositions
     ServeurWeb --> BaseDeDonnees : récupère propositions
     BaseDeDonnees --> Oeuvre : envoie informations
+
+```

@@ -5,3 +5,5 @@ sequenceDiagram
     M->>S: Navigue et sélectionne une œuvre
     M->>S: Clique sur "Ajouter aux favoris"
     S->>M: Ajoute l'œuvre aux favoris
+
+```

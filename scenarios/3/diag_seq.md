@@ -6,3 +6,5 @@ sequenceDiagram
     U->>S: Saisit email et mot de passe
     S->>S: Vérifie les informations
     S->>U: Authentifie et redirige vers le compte
+
+```

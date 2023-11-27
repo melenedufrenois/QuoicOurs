@@ -13,3 +13,5 @@ classDiagram
 
     Utilisateur --> SiteWeb : interagit
     SiteWeb --> Compte : crée
+
+```

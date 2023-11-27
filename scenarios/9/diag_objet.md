@@ -18,3 +18,5 @@ classDiagram
     InterfaceUtilisateur --> ServeurWeb : sélectionne oeuvre depuis historique
     ServeurWeb --> BaseDeDonnees : récupère détails oeuvre
     BaseDeDonnees --> Oeuvre : renvoie informations
+
+```

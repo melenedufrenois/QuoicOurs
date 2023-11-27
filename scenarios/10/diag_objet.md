@@ -21,3 +21,5 @@ classDiagram
     InterfaceUtilisateur --> ServeurWeb : ajoute oeuvre aux favoris
     ServeurWeb --> BaseDeDonnees : enregistre dans favoris
     BaseDeDonnees --> Favori : met à jour liste favoris
+
+```

@@ -19,3 +19,5 @@ classDiagram
     InterfaceUtilisateur --> ServeurWeb : envoie données inscription
     ServeurWeb --> BaseDeDonnees : crée utilisateur
     BaseDeDonnees --> Utilisateur : stocke informations
+
+```

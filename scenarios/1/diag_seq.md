@@ -8,3 +8,5 @@ sequenceDiagram
     U->>S: Sélectionne une œuvre
     S->>U: Affiche les détails de l'œuvre
     U->>S: Lit ou télécharge l'œuvre
+```
+

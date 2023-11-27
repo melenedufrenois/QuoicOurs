@@ -24,3 +24,5 @@ classDiagram
     ServeurWeb --> BaseDeDonnees : vérifie disponibilité et enregistre emprunt
     BaseDeDonnees --> Oeuvre : renvoie détails oeuvre
     BaseDeDonnees --> Emprunt : crée enregistrement d'emprunt
+
+```

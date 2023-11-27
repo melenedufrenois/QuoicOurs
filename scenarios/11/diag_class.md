@@ -13,3 +13,5 @@ class Compte {
 
     Utilisateur --> SiteWeb : modifie le profil
     SiteWeb --> Compte : enregistre les changements
+
+```

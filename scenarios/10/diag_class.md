@@ -17,3 +17,5 @@ classDiagram
     Utilisateur --> SiteWeb : sélectionne œuvre
     SiteWeb --> Oeuvre : ajoute aux favoris
     Oeuvre --> Favoris : est ajoutée
+
+```

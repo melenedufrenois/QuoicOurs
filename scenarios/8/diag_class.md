@@ -13,3 +13,5 @@ classDiagram
 
     Utilisateur --> SiteWeb : consulte
     SiteWeb --> HistoriqueLecture : affiche
+
+```

@@ -19,3 +19,5 @@ class Utilisateur {
     InterfaceUtilisateur --> ServeurWeb : soumet mise à jour profil
     ServeurWeb --> BaseDeDonnees : met à jour informations utilisateur
     BaseDeDonnees --> Utilisateur : stocke nouvelles informations
+
+```

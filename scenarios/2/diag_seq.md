@@ -6,3 +6,5 @@ sequenceDiagram
     U->>S: Remplit et soumet le formulaire
     S->>S: Vérifie les informations
     S->>U: Crée le compte et envoie confirmation
+
+```

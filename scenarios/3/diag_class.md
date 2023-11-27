@@ -13,3 +13,5 @@ classDiagram
 
     Utilisateur --> SiteWeb : se connecte
     SiteWeb --> Compte : authentifie
+
+```

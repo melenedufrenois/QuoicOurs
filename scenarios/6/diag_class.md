@@ -15,3 +15,5 @@ classDiagram
 
     Utilisateur --> SiteWeb : demande emprunt
     SiteWeb --> Oeuvre : vérifie et enregistre
+
+```

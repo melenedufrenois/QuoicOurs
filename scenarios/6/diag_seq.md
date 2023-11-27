@@ -6,3 +6,5 @@ sequenceDiagram
     M->>S: Sélectionne l'œuvre
     S->>S: Vérifie la disponibilité
     S->>M: Enregistre la demande d'emprunt
+
+```

@@ -15,3 +15,5 @@ classDiagram
 
     Utilisateur --> SiteWeb : demande location
     SiteWeb --> Oeuvre : traite demande
+
+```

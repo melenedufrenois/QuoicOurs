@@ -13,3 +13,5 @@ classDiagram
 
     Utilisateur --> SiteWeb : accède à l'historique
     SiteWeb --> Oeuvre : redirige
+
+```

@@ -19,3 +19,5 @@ classDiagram
     InterfaceUtilisateur --> ServeurWeb : soumet proposition
     ServeurWeb --> BaseDeDonnees : enregistre proposition
     BaseDeDonnees --> Oeuvre : stocke détails oeuvre
+
+```
