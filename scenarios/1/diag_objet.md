@@ -21,3 +21,4 @@ classDiagram
     ServeurWeb --> BaseDeDonnees : requêtes SQL
     BaseDeDonnees --> Oeuvre : renvoie données
     Oeuvre --> InterfaceUtilisateur : affiche informations
+```
