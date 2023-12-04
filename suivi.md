@@ -1,3 +1,7 @@
-création dépôt, dossiers et fichiers : Mélène Dufrénois
+création dépôt, dossiers et fichiers : Mélène
 
-scénarios : Sacha Duvivier
+README : Lucas et Mélène
+
+Scénarios : Sacha
+
+Diagrammes : Théo
