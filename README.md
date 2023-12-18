@@ -5,7 +5,7 @@
 # Résumé: Génie Logiciel
 
 ## Resumé en 1 phrase:
-Conception d'une bibliothèque numérique décentralisée.
+Conception d'une bibliothèque numérique décentralisée.  📚🌐
 
 ## Présentation
 
