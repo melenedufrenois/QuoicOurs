@@ -33,11 +33,7 @@ L'application possède quatre rubriques:
 - Séquestre
 - À modérer
 
-## Repérage des mots clés
-
-Concepts, noms propres, actions, propriétés
-
-## Glossaire
+## Glossaire 🔎
 Classe : Une représentation d'un ensemble d'objets ayant des propriétés et des comportements communs.
 
 Attribut : Une caractéristique d'une classe qui décrit une propriété de ses objets.
@@ -57,13 +53,13 @@ Description des scénarios principaux:
 - Modérer une œuvre
 - Etc.
 
-## Diagrammes
+## Diagrammes 📊
 
 - Objet
 - Séquence
 - Classe
 
-## Architecture
+## Architecture 🔨
 
 Choix d'architecture et patterns de conception.
 
