@@ -59,10 +59,9 @@ Description des scénarios principaux:
 
 ## Diagrammes
 
-- Cas d'utilisation
-- Séquences
-- Classes
-- Etc.
+- Objet
+- Séquence
+- Classe
 
 ## Architecture
 
