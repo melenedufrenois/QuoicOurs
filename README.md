@@ -38,7 +38,13 @@ L'application possède quatre rubriques:
 Concepts, noms propres, actions, propriétés
 
 ## Glossaire
+Classe : Une représentation d'un ensemble d'objets ayant des propriétés et des comportements communs.
 
+Attribut : Une caractéristique d'une classe qui décrit une propriété de ses objets.
+
+Opération : Une action ou méthode associée à une classe, représentant un comportement de ses objets.
+
+Association : Une relation structurelle entre deux classes, indiquant qu'elles sont liées d'une certaine manière.
 
 ## Scénarios
 
