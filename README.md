@@ -4,6 +4,9 @@
 
 # Résumé: Génie Logiciel
 
+##Resumé en 1 phrase:
+Conception d'une bibliothèque numérique décentralisée.
+
 ## Présentation
 
 L'association CultureDiffusion souhaite réaliser une bibliothèque numérique à gestion décentralisée.
