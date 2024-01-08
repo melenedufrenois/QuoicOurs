@@ -6,9 +6,13 @@ classDiagram
       +String motDePasse
       +bool estAuthentifie()
       +void changerMotDePasse(String nouveauMotDePasse)
-      +List<String> roles
-      +void ajouterRole(String role)
-      +void supprimerRole(String role)
+    }
+    class Role {
+      +String nom
+    }
+    class UtilisateurRole {
+      +Utilisateur utilisateur
+      +Role role
     }
     class SiteWeb {
       +rechercher()
@@ -21,6 +25,10 @@ classDiagram
       +String auteur: "Victor Hugo"
     }
 
-    Utilisateur --> SiteWeb : utilise
+    Utilisateur --> UtilisateurRole : a
+    Role --> UtilisateurRole : a
+    UtilisateurRole --> Utilisateur : contient
+    UtilisateurRole --> Role : contient
+    UtilisateurRole --> SiteWeb : utilise
     SiteWeb --> Oeuvre : affiche
 ```
