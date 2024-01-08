@@ -64,7 +64,7 @@ Description des scénarios principaux:
 Choix d'architecture et patterns de conception.
 
 <ul>
-  <li><a href="https://github.com/melenedufrenois/QuoicOurs/tree/main/scenarios/1">1er scénario</a></li>
+  <li><a href="https://github.com/melenedufrenois/QuoicOurs/tree/main/scenarios/1">1er scénario</a></li> <------ Le plus complet :)
   <li><a href="https://github.com/melenedufrenois/QuoicOurs/tree/main/scenarios/2">2er scénario</a></li>
   <li><a href="https://github.com/melenedufrenois/QuoicOurs/tree/main/scenarios/3">3er scénario</a></li>
   <li><a href="https://github.com/melenedufrenois/QuoicOurs/tree/main/scenarios/4">4er scénario</a></li>
