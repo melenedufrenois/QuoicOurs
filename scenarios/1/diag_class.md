@@ -22,7 +22,10 @@ classDiagram
     }
     class Oeuvre {
       +String titre: "Les Misérables"
-      +String auteur: "Victor Hugo"
+      +Auteur auteur
+    }
+    class Auteur {
+      +String nom: "Victor Hugo"
     }
 
     Utilisateur --> UtilisateurRole : a
@@ -31,4 +34,5 @@ classDiagram
     UtilisateurRole --> Role : contient
     UtilisateurRole --> SiteWeb : utilise
     SiteWeb --> Oeuvre : affiche
+    Oeuvre --> Auteur : écrit par
 ```
