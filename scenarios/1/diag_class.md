@@ -1,31 +1,48 @@
 ```mermaid
 classDiagram
     class Utilisateur {
-      +String nom: "Jean"
-      +String email: "jean@email.com"
-      +String motDePasse
-      +bool estAuthentifie()
-      +void changerMotDePasse(String nouveauMotDePasse)
+      +ID: int
+      +nom: String
+      +email: String
+      +motDePasse: String
+      +dateCreation: Date
+      +autresInfos: String
     }
     class Role {
-      +String nom
+      +ID: int
+      +nom: String
     }
     class UtilisateurRole {
-      +Utilisateur utilisateur
-      +Role role
+      +ID: int
+      +utilisateurID: int
+      +roleID: int
     }
     class SiteWeb {
-      +rechercher()
-      +afficherDetails()
-      +bool verifierAutorisation(Utilisateur utilisateur, String roleRequis)
-      +void enregistrerActivite(Utilisateur utilisateur, String activite)
+      +ID: int
+      +nom: String
+      +adresse: String
+      +autresInfos: String
     }
     class Oeuvre {
-      +String titre: "Les Misérables"
-      +Auteur auteur
+      +ID: int
+      +titre: String
+      +auteurID: int
+      +anneePublication: int
+      +genre: String
+      +ISBN: String
+      +quantiteDisponible: int
     }
     class Auteur {
-      +String nom: "Victor Hugo"
+      +ID: int
+      +nom: String
+    }
+    class Emprunt {
+      +ID: int
+      +utilisateurID: int
+      +oeuvreID: int
+      +dateEmprunt: Date
+      +dateRetourPrevue: Date
+      +statutEmprunt: String
     }
 
     Utilisateur --> UtilisateurRole : a
@@ -33,6 +50,8 @@ classDiagram
     UtilisateurRole --> Utilisateur : contient
     UtilisateurRole --> Role : contient
     UtilisateurRole --> SiteWeb : utilise
-    SiteWeb --> Oeuvre : affiche
+    SiteWeb --|> Oeuvre : affiche
     Oeuvre --> Auteur : écrit par
+    Emprunt --> Utilisateur : concerne
+    Emprunt --> Oeuvre : concerne
 ```
